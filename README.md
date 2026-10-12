@@ -41,7 +41,7 @@ An exploration of blockchain-based identity infrastructure, IPFS, and credential
 
 My research explores software engineering approaches for secure and decentralized digital systems.
 
-*Selected publications and research outputs will be added here.*
+(https://scholar.google.com/citations?hl=en&user=NBmsPD0AAAAJ)
 
 ### 🤝 Let's Connect
 
